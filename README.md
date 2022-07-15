@@ -138,8 +138,8 @@ Or clone locally:
 ```bash
 $ git clone git@github.com:ant-design/ant-design.git
 $ cd ant-design
-$ npm install
-$ npm start
+$ yarn
+$ yarn start
 ```
 
 Open your browser and visit http://127.0.0.1:8001 , see more at [Development](https://github.com/ant-design/ant-design/wiki/Development).
